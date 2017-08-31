@@ -21,7 +21,6 @@ public class Classes : MonoBehaviour {
 
 		string enemyName = "Koopa";
 		int a = 9;
-		int b = a + 1;
 	}
 
 }
