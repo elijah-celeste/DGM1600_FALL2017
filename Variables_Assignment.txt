@@ -1,0 +1,10 @@
+// Variables are a way for fluid data to be stored and modified within our scripts.
+int myVarA = 1;
+// This variable, named myVarA, has a data type of an integer; which stores an integer. The value assigned to var myVar is 1.
+float myVarB = 1.5;
+// The float data type stores data as a floating point number.
+private int myVarC = 2;
+// The word "private" before the variable data type is called an access modifier which prevents the data from being accessed outside of the container.
+string myVarD = "Hello";
+// The string data type contains a text string rather than a numeric data set.
+// if you do not declare the access modifier, by default it will be private.
