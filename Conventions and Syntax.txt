@@ -1,0 +1,24 @@
+//In most coding languages, as well as in C# we adhere to conventions and syntax to make our code both human-readable
+//as well as allowing the script to be parsed by the commpiler.
+public class Conditionals {
+}
+//Classes define their code blocks using the "{}" brackets.
+void main(){
+
+}
+//Functions use "()" to pass arguments.
+public int var = 1;
+//Statements are completed using the ";" character.
+
+public class ExampleClass{
+    void main(){
+        public int varB = 2;
+    }
+}
+
+public class EntityStats{
+    void main(){
+        public int baseHealth = 100;
+    }
+}
+
